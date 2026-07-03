@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration:StudioProjectConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:configuration="http:///com/tibco/cep/studio/common/configuration/model/project_configuration.ecore" name="FraudDetection" version="6.3.0" build="101" xpathVersion="2.0">
+  <javaSourceFolderEntries entryType="JAVA_SOURCE_FOLDER" path="/FraudDetection/JavaSrc" readOnly="true"/>
+  <enterpriseArchiveConfiguration name="FraudDetection" author="TIBCO Software Inc." version="9" path="C:/tibco/be/6.3\examples\standard\FraudDetection\fd.ear" overwrite="true"/>
+</configuration:StudioProjectConfiguration>
