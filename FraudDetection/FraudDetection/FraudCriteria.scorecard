@@ -3,5 +3,5 @@
   <extendedProperties/>
   <properties name="interval" ownerProjectName="FraudDetection" type="long" ownerPath="/FraudCriteria"/>
   <properties name="numTransactions" ownerProjectName="FraudDetection" type="string" ownerPath="/FraudCriteria"/>
-  <properties name="debitsPercent" ownerProjectName="FraudDetection" type="double" ownerPath="/FraudCriteria"/>
+  <properties name="debitsPercent" ownerProjectName="FraudDetection" type="int" ownerPath="/FraudCriteria"/>
 </element:Scorecard>
